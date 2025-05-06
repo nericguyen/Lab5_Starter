@@ -12,3 +12,6 @@ the fault would come from.
 
 Yes, you would want to use a unit test to test the max length feature since this feature is probably encapsulated in a small amount of code
 and can be easily bugtested.
+
+https://nericguyen.github.io/Lab5_Starter/expose.html
+https://nericguyen.github.io/Lab5_Starter/explore.html
